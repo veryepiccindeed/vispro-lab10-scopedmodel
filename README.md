@@ -4,4 +4,4 @@ Ephemeral state adalah state sementara (tidak akan disimpan). Ini berguna jika k
 
 Scoped model adalah library untuk mengelola state secara global sehingga bisa diakses dan dimodifikasi oleh widget manapun, tanpa perlu mengoper valuenya secara manual dengan konstruktor
 
-Untuk aplikasi besar yang membutuhkan autentikasi user, shopping card dan sejenisnya, disarankan untuk menggunakan scoped model agar mengurangi redundansi (penggunaan) kode 
+Untuk aplikasi besar yang membutuhkan autentikasi user, shopping card dan sejenisnya, disarankan untuk menggunakan scoped model agar mengurangi redundansi (pengulangan) kode 
